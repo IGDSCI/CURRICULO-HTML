@@ -1,0 +1,47 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(173, 175, 190);
+}
+
+h1{
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    margin: 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 120px;
+    border: 5px solid #62818d;
+    border-radius: 25px;
+}
+
+td{
+    display: inline-block;
+    vertical-align: top;
+}
+
+table{
+    border-radius: 5px;
+    border: 2px solid #073c81;
+    width: 1000px;
+    margin: 7px auto;
+}
+ 
+th, tr{
+    background-color: bisque;
+}
+
+#table-principal{
+    margin-top: 70px;
+}
+
+.esquerda {
+    text-align: left;
+}
